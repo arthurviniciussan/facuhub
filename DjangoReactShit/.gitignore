@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+.env
+.env.*
+
+# Virtualenv
+envi/
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (caso use React/JS)
+node_modules/
